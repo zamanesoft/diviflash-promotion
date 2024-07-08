@@ -1,4 +1,18 @@
-[
+[ {
+    "slug": "yoga",
+    "version": "1.0.0",
+    "name": "Yoga",
+    "package_name": "Yoga Layout Packs",
+    "description": "Pre-built Yoga website template featuring in detailed about page with a dedicated clasess and blog page.",
+    "thumb": "https://diviflash.com/wp-content/uploads/2024/04/Freelancer-Layout-Packs.webp",
+    "demo_url": "https://layouts.diviflash.xyz/yoga/",
+    "package_url": "https://layouts.diviflash.xyz/yoga/wp-content/uploads/sites/39/2024/07/diviflash_yoga_layout_pack.zip",
+    "download_url": "https://layouts.diviflash.xyz/yoga/wp-content/uploads/sites/39/2024/07/FlashYoga-Layout-Packs-DiviFlash.zip",
+    "doc_link": "https://diviflash.com/docs/yoga/",
+    "menu_instruction": {
+      "list": "Home, About, Classes, Blog, Contact"
+    }
+  },
   {
     "slug": "freelancer",
     "version": "1.0.0",
